@@ -1,9 +1,11 @@
-# CURSO BÁSICO/INTERMEDIÁRIO/AVANÇADO DE PROGRAMAÇÃO
+# PROBLEMAS DE MARATONAS DE PROGRAMAÇÃO - Cursos e Monitoria
 
 ## **Informações Gerais**
 
-###### Neste Repositório estarão presentes problemas criados por Danilo de Andrade Peleteiro para o Curso Básico/Intermediário/Avançado de Programação.
+###### Neste Repositório estarão presentes problemas nos moldes de Maratonas de Programação criados por Danilo de Andrade Peleteiro. Estes problemas foram criados dentro de dois contextos:
+###### 1 - Durante atividades de Monitoria realizada nos Semestres 2018.1 e 2018.2
+###### 2 - Durante os Cursos Básicos/Intermediários/Avançados de Programação nos Semestres de 2018.2 e 2019.1
 
 ## **Etc**
 
-###### Os cursos são voltados para crianças/adolescentes do Ensino Fundamental 2 e Médio. Foram majoritariamente ministrados pelo Prof. Dr. Rubisley de Paula Lemes durante o Semestre 2018.2 com continuidade prevista para o Semestre 2019.1 . Os conceitos de Programação são ensinados em conjunto com exercícios e problemas nos moldes de Maratonas de Programação.
+######
