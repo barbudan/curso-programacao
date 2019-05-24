@@ -8,4 +8,4 @@
 
 ## **Etc**
 
-###### Problemas desenvolvidos para serem hospedados na plataforma [Jude](https://200.128.51.30)
+###### Problemas desenvolvidos para serem hospedados na plataforma [Jude](200.128.51.30)
